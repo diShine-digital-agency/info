@@ -126,14 +126,14 @@ Browse our documentation and guides to understand modern digital transformation 
 
 Our repositories are organized into clear categories:
 
-- **🛠️ tools-and-resources**: Curated collection of digital tools and resources
-- **🌐 web-applications**: Custom web apps and solutions
-- **🔌 browser-extensions**: Chrome extensions and browser tools
-- **📱 mobile-solutions**: Mobile applications and responsive tools
+- **🛠️ tools-and-resources**: curated collection of digital tools and resources
+- **🌐 web-applications**: custom web apps and solutions
+- **🔌 browser-extensions**: chrome extensions and browser tools
+- **📱 mobile-solutions**: mobile applications and responsive tools
 - **🤖 ai-automation**: AI-powered automation tools and scripts
-- **📊 data-analytics**: Data analysis tools and dashboards
-- **📚 documentation**: Guides, tutorials, and best practices
-- **🎨 design-resources**: Creative assets and design tools
+- **📊 data-analytics**: data analysis tools and dashboards
+- **📚 documentation**: guides, tutorials, and best practices
+- **🎨 design-resources**: creative assets and design tools
 
 ---
 
