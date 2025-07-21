@@ -103,7 +103,7 @@ Everything we share here is driven by our commitment to:
 ## 🚀 Getting Started
 
 ### For Businesses
-If you're looking to transform your digital presence, explore our **Tools Repository** for resources that can accelerate your journey. Each tool comes with detailed documentation and implementation guides.
+If you're looking to transform your digital presence, explore our **Tools Repository** for resources that can accelerate your journey.
 
 ### For Developers
 Check out our custom applications and contribute to projects that interest you. We welcome pull requests, issue reports, and feature suggestions.
