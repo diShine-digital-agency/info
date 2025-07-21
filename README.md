@@ -24,33 +24,33 @@ Welcome to the official GitHub organization of **diShine Digital Agency**, where
 
 At diShine, we believe in the power of technology to transform businesses and create meaningful impact. Our mission is threefold:
 
-- **Transform**: Build distinctive brand and product identities that resonate in the digital landscape
-- **Automate**: Streamline key business processes to boost efficiency and focus on strategic growth
-- **Shine**: Implement data-driven digital strategies that generate measurable results
+- **Transform**: build distinctive brand and product identities that resonate in the digital landscape
+- **Automate**: streamline key business processes to boost efficiency and focus on strategic growth
+- **Shine**: implement data-driven digital strategies that generate measurable results
 
 ### 🌍 What We Do
 
 We are a **Creative Tech Agency** that brings specialized knowledge and experience to help clients navigate the complexities of the digital landscape more effectively. Our expertise spans across:
 
 #### 🎨 Brand & Strategic Storytelling
-- **Brand & Product Identity**: Crafting unique identities that align with core values
-- **Corporate Storytelling**: Developing compelling narratives for stakeholder alignment
-- **Content Management**: Creating high-quality multimedia content across platforms
+- **Brand & Product Identity**: crafting unique identities that align with core values
+- **Corporate Storytelling**: developing compelling narratives for stakeholder alignment
+- **Content Management**: creating high-quality multimedia content across platforms
 
 #### 💻 Web & Digital Presence
-- **Web Solutions**: Designing engaging, SEO-friendly, responsive websites
-- **E-Commerce & Social Media**: Custom digital shopping experiences and social strategies
-- **SEO/SEM**: Boosting visibility and attracting relevant audiences
+- **Web Solutions**: designing engaging, SEO-friendly, responsive websites
+- **E-Commerce & Social Media**: custom digital shopping experiences and social strategies
+- **SEO/SEM**: boosting visibility and attracting relevant audiences
 
 #### 🤖 Data Analytics, Automation & AI
-- **Data-Driven Insights**: Transforming complex data into actionable intelligence
-- **CRM & API Integration**: Seamless system connections for optimized workflows
-- **Marketing Automation**: Automated content and campaign processes
+- **Data-Driven Insights**: transforming complex data into actionable intelligence
+- **CRM & API Integration**: seamless system connections for optimized workflows
+- **Marketing Automation**: automated content and campaign processes
 
 #### 🔄 Culture & Transformation
-- **Change Management**: Supporting digital transformation with tailored strategies
-- **Digital Transformation**: Building digital competencies through structured learning
-- **AI & Automation Learning**: Equipping teams with AI technology skills
+- **Change Management**: supporting digital transformation with tailored strategies
+- **Digital Transformation**: building digital competencies through structured learning
+- **AI & Automation Learning**: equipping teams with AI technology skills
 
 ---
 
@@ -92,11 +92,11 @@ We believe this transformation doesn't have to be overwhelming. Through open-sou
 ### 🤝 Community-First Approach
 
 Everything we share here is driven by our commitment to:
-- **Transparency**: Open-source solutions with clear documentation
-- **Accessibility**: Tools and resources available to businesses of all sizes
-- **Innovation**: Cutting-edge approaches to common challenges
-- **Education**: Empowering others through knowledge transfer
-- **Collaboration**: Building together for mutual success
+- **Transparency**: open-source solutions with clear documentation
+- **Accessibility**: tools and resources available to businesses of all sizes
+- **Innovation**: cutting-edge approaches to common challenges
+- **Education**: empowering others through knowledge transfer
+- **Collaboration**: building together for mutual success
 
 ---
 
