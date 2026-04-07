@@ -37,4 +37,4 @@ Match the style of the existing code in each repo. We don't enforce strict linti
 
 ## Questions
 
-For general questions about our tools or agency work, reach out via mail (you can find our email [eight here](https://dishine.it/contacts/) rather than opening a GitHub issue.
+For general questions about our tools or agency work, reach out via mail (you can find our email [right here](https://dishine.it/contacts/) rather than opening a GitHub issue.
