@@ -37,4 +37,4 @@ Match the style of the existing code in each repo. We don't enforce strict linti
 
 ## Questions
 
-For general questions about our tools or agency work, reach out via [mail](kevin@kescoda.com) rather than opening a GitHub issue.
+For general questions about our tools or agency work, reach out via [mail](@kevin@kescoda.com) rather than opening a GitHub issue.
