@@ -58,7 +58,7 @@ This organization is our open-source contribution hub. We develop (and share mod
 | Tool | What it does | Stack |
 |------|-------------|-------|
 | **[prismo](https://github.com/diShine-digital-agency/prismo)** | A zero-footprint, USB-portable toolkit that bundles Node.js and Claude Code to perform 15+ diagnostics across SEO, MarTech, and Security without leaving a trace on the host machine. Plug, Audit, Leave — on Windows, macOS, or Linux | Portable Node.js, Claude Code, PowerShell/Bash |
-| **[ai-prompt-library](https://github.com/diShine-digital-agency/ai-prompt-library)** | 52 production-ready prompt templates (from Chain-of-Thought to SEO briefing) with a zero-dependency CLI to standardize how your team interacts with LLMs | Node.js, YAML, Markdown |
+| **[ai-prompt-library](https://github.com/diShine-digital-agency/ai-prompt-library)** | 82 production-ready prompt templates (from Chain-of-Thought to SEO briefing) with a zero-dependency CLI and a prompt engineering machine to standardize how your team interacts with LLMs | Node.js, YAML, Markdown |
 | **[dishine-data-safe-usb](https://github.com/diShine-digital-agency/dishine-data-safe-usb)** | Ensures no real phone numbers or IBANs are uploaded to external servers. Anonymises PII before AI model ingestion, preserving grouping and trend signals. A one-click Mac-native experience designed for non-technical teams | Python |
 | **[dishine-boardroom-ear](https://github.com/diShine-digital-agency/dishine-boardroom-ear)** | A 100% local audio transcriber built for board meetings and M&A discussions too sensitive for cloud bots. Uses faster-whisper with Metal/MPS optimization to turn raw audio into structured strategic assets entirely on your MacBook or Linux machine | Python, faster-whisper |
 
@@ -72,9 +72,9 @@ This organization is our open-source contribution hub. We develop (and share mod
 
 ---
 
-## 🌐 Our Proprietary Platforms
+## 🌐 Our other tools
 
-Beyond our open-source work, we also build and maintain platforms designed to automate lead generation and process auditing at scale.
+Beyond our open-source work, we also build and maintain solutions designed to automate lead generation and process auditing.
 
 ### [StreamLead.eu](https://streamlead.eu/) — AI-Powered Lead Generation & Outreach
 
@@ -128,7 +128,7 @@ Our commitment:
 | **Agency Website** | [dishine.it](https://dishine.it/) |
 | **Founder** | [Kevin Escoda](https://kescoda.com/) — Tech Consultant, Digital Strategies & Innovation |
 | **LinkedIn** | [diShine Digital Agency](https://linkedin.com/company/100682596) |
-| **Get in touch** | [Contact form](https://dishine.it/) |
+| **Get in touch** | [Contact form](https://dishine.it/contacts/) |
 | **Languages** | English · French · Italian · Spanish |
 
 ---
@@ -140,6 +140,7 @@ Our commitment:
 Explore our repositories and join us in building the future of digital innovation.
 
 *Made with ❤️ by the diShine team in Milan, Italy*
+
 *🇫🇷 Dreamed in French · 🇮🇹 Built in Italy · 🇬🇧 Shipped in English*
 
 </div>
