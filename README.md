@@ -128,6 +128,7 @@ Our commitment:
 | **Agency Website** | [dishine.it](https://dishine.it/) |
 | **Founder** | [Kevin Escoda](https://kescoda.com/) — Tech Consultant, Digital Strategies & Innovation |
 | **LinkedIn** | [diShine Digital Agency](https://linkedin.com/company/100682596) |
+| **Get in touch** | E-mail: **kevin@dishine.it** |
 | **Get in touch** | [Contact form](https://dishine.it/contacts/) |
 | **Languages** | English · French · Italian · Spanish |
 
