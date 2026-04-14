@@ -17,18 +17,6 @@
 
 ---
 
-# 🌟 diShine Digital Agency — Open Source Hub
-
-[![diShine Logo](https://dishine.it/favicon.ico)](https://dishine.it/favicon.ico)
-
-**Transform. Automate. Shine!**
-
-_The Creative Tech Agency with innovation in mind_
-
-[![Website](https://img.shields.io/badge/Website-dishine.it-blue)](https://dishine.it/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-diShine-blue)](https://linkedin.com/company/100682596) [![Location](https://img.shields.io/badge/Location-Milan%2C%20Italy-green)](/diShine-digital-agency/info/blob/main) [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey)](/diShine-digital-agency/info/blob/main/LICENSE)
-
----
-
 ## 🚀 Welcome to Our Digital Innovation Hub
 
 Welcome to the official GitHub organization of **diShine Digital Agency**. Based in Milan, Italy, but operating globally, we are a creative tech agency dedicated to helping businesses and individuals navigate the complexities of the digital era.
