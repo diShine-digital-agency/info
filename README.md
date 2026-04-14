@@ -19,7 +19,7 @@
 
 ## 🚀 Welcome to Our Digital Innovation Hub
 
-Welcome to the official GitHub organization of **diShine Digital Agency**. Based in Milan, Italy, but operating globally, we are a creative tech agency dedicated to helping businesses and individuals navigate the complexities of the digital era.
+Welcome to the official GitHub of **diShine Digital Agency**. Based in Milan, Italy, but operating globally, we are a creative tech agency dedicated to helping businesses and individuals navigate the complexities of the digital era.
 
 What started as a simple repository to share lists of tools has evolved into a comprehensive open-source hub. Today, this GitHub is a place where we share the tools — modified and polished for public use — that have already improved our own workflows and those of our clients.
 
@@ -30,8 +30,6 @@ We have been building digital solutions for years. Originally, our focus was on 
 Today, our team includes dedicated developers and architects, allowing us to build custom, robust applications. But what truly sets us apart is our deep **business experience**. We don't just write code; we understand strategy and operations. Every tool we build is designed to solve a real business bottleneck, streamline an operation, or generate measurable ROI.
 
 ### 🎯 Our Mission
-
-At diShine, we believe in the power of technology to transform businesses and create meaningful impact. Our mission is threefold:
 
 - **Transform**: build distinctive brand and product identities that resonate in the digital landscape;
 - **Automate**: streamline key business processes to boost efficiency and focus on strategic growth;
