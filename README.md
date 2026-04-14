@@ -1,4 +1,4 @@
-# 🌟 diShine Digital Agency — Open Source Hub
+# 🌟 diShine Digital Agency Open Source Hub
 
 <div align="center">
 
@@ -21,7 +21,7 @@
 
 Welcome to the official GitHub of **diShine Digital Agency**. Based in Milan, Italy, but operating globally, we are a creative tech agency dedicated to helping businesses and individuals navigate the complexities of the digital era.
 
-What started as a simple repository to share lists of tools has evolved into a comprehensive open-source hub. Today, this GitHub is a place where we share the tools — modified and polished for public use — that have already improved our own workflows and those of our clients.
+What started as a simple repository to share lists of tools has evolved into a comprehensive open-source hub. Today, this GitHub is a place where we share the tools  modified and polished for public use  that have already improved our own workflows and those of our clients.
 
 ### 🏗️ Our Background: From Low-Code to Full-Stack Automation
 
@@ -46,16 +46,16 @@ This organization is our open-source contribution hub. We develop (and share mod
 | Tool | What it does | Stack |
 |------|--------------|-------|
 | **[cookie-audit](https://github.com/diShine-digital-agency/cookie-audit)** | Fires up a headless browser, captures every cookie a site sets, classifies them against a 150+ entry database, and outputs a graded GDPR compliance report | Node.js, Puppeteer |
-| **[tag-auditor](https://github.com/diShine-digital-agency/tag-auditor)** | Runs 14 rigorous checks on a GTM JSON export — unused tags, naming violations, missing consent, security risks, and performance issues | Node.js, CLI |
+| **[tag-auditor](https://github.com/diShine-digital-agency/tag-auditor)** | Runs 14 rigorous checks on a GTM JSON export, unused tags, naming violations, missing consent, security risks, and performance issues | Node.js, CLI |
 | **[meta-inspector](https://github.com/diShine-digital-agency/meta-inspector)** | Fetches any URL, grades SEO tags, simulates social feed previews, and surfaces exactly what HTML is missing for perfect link previews across platforms | Node.js, CLI |
 | **[lighthouse-dashboard](https://github.com/diShine-digital-agency/lighthouse-dashboard)** | Automates weekly Lighthouse audits for all your URLs, stores scores in a local SQLite database, and renders interactive trend charts via a REST API | Node.js, SQLite, Google Lighthouse |
-| **[ai-compliance-framework](https://github.com/diShine-digital-agency/ai-compliance-framework)** | Ready-to-use Markdown templates for AI Acceptable Use Policies, DPIAs, and ISO 42001 alignment — decision matrices, vendor audit checklists, and AUPs built with legal experts for the EU AI Act and GDPR | Markdown, HTML |
+| **[ai-compliance-framework](https://github.com/diShine-digital-agency/ai-compliance-framework)** | Ready-to-use Markdown templates for AI Acceptable Use Policies, DPIAs, and ISO 42001 alignment, decision matrices, vendor audit checklists, and AUPs built with legal experts for the EU AI Act and GDPR | Markdown, HTML |
 
 ### 🤖 AI & Automation
 
 | Tool | What it does | Stack |
 |------|--------------|-------|
-| **[prismo](https://github.com/diShine-digital-agency/prismo)** | A zero-footprint, USB-portable toolkit that bundles Node.js and Claude Code to perform 15+ diagnostics across SEO, MarTech, and Security without leaving a trace on the host machine. Plug, Audit, Leave — on Windows, macOS, or Linux | Portable Node.js, Claude Code, PowerShell/Bash |
+| **[prismo](https://github.com/diShine-digital-agency/prismo)** | A zero-footprint, USB-portable toolkit that bundles Node.js and Claude Code to perform 15+ diagnostics across SEO, MarTech, and Security without leaving a trace on the host machine. Plug, Audit, Leave (on Windows, macOS, or Linux) | Portable Node.js, Claude Code, PowerShell/Bash |
 | **[prismo-tauri](https://github.com/diShine-digital-agency/prismo-tauri)** | Lightweight, cross-platform GUI companion for the Prismo toolkit. Keeps absolute USB portability while adding a visual audit experience, live Markdown rendering, and browser-print PDF exports for zero-footprint desktop diagnostics | Tauri, Rust, React, Tailwind |
 | **[ai-prompt-library](https://github.com/diShine-digital-agency/ai-prompt-library)** | 82 production-ready prompt templates (from Chain-of-Thought to SEO briefing) with a zero-dependency CLI and a prompt engineering machine to standardize how your team interacts with LLMs | Node.js, YAML, Markdown |
 | **[dishine-data-safe-usb](https://github.com/diShine-digital-agency/dishine-data-safe-usb)** | Ensures no real phone numbers or IBANs are uploaded to external servers. Anonymises PII before AI model ingestion, preserving grouping and trend signals. A one-click Mac-native experience designed for non-technical teams | Python |
@@ -65,7 +65,7 @@ This organization is our open-source contribution hub. We develop (and share mod
 
 | Tool | What it does | Stack |
 |------|--------------|-------|
-| **[Tools-and-Resources](https://github.com/diShine-digital-agency/Tools-and-Resources)** | 426 digital tools with intelligent alternative matching (79.9% accuracy). Build consulting tech stacks, find free/paid alternatives, and export triple-section reports — all from a single HTML file with zero dependencies | Standalone HTML/JS, JSON |
+| **[Tools-and-Resources](https://github.com/diShine-digital-agency/Tools-and-Resources)** | 426 digital tools with intelligent alternative matching (79.9% accuracy). Build consulting tech stacks, find free/paid alternatives, and export triple-section reports, all from a single HTML file with zero dependencies | Standalone HTML/JS, JSON |
 | **[digital-maturity-scorecard](https://github.com/diShine-digital-agency/digital-maturity-scorecard)** | A single-file interactive assessment that turns discovery calls into structured pre-diagnostics. Covers 5 dimensions of digital maturity with a live radar chart, personalized roadmap, and printable Digital Health Report | Vanilla JS, HTML |
 | **[align-framework](https://github.com/diShine-digital-agency/align-framework)** | The ALIGN methodology: a 5-phase process (Assess, Link, Integrate, Generate, Navigate) to map narrative gaps, select communication structures, and connect brand storytelling metrics directly to revenue growth | HTML, Markdown |
 
@@ -82,19 +82,19 @@ This organization is our open-source contribution hub. We develop (and share mod
 
 Beyond our open-source work, we also build and maintain solutions designed to automate lead generation and process auditing.
 
-### [StreamLead.eu](https://streamlead.eu/) — AI-Powered Lead Generation & Outreach
+### [StreamLead.eu](https://streamlead.eu/) | AI-Powered Lead Generation & Outreach
 
 StreamLead turns fragmented web signals into a real-time feed of qualified prospects, then automates personalized outreach across 5 channels. It combines the best data providers (Apollo, Hunter, Lusha), our proprietary AI agents, and custom algorithms into one unified, GDPR-native engine.
 
-- **Smart Web Scraper** — autonomous agents that extract structured data from any URL without CSS selectors
-- **ICP Precision Matching** — filter prospects by your exact Ideal Customer Profile
-- **Intent Signal Radar** — catch buying signals before your competitors do
-- **Smart Message Writer** — AI-personalized copy at scale
-- **Built-In Compliance Engine** — GDPR by design, not as an afterthought
+- **Smart Web Scraper** | autonomous agents that extract structured data from any URL without CSS selectors
+- **ICP Precision Matching** | filter prospects by your exact Ideal Customer Profile
+- **Intent Signal Radar** | catch buying signals before your competitors do
+- **Smart Message Writer** | AI-personalized copy at scale
+- **Built-In Compliance Engine** | GDPR by design, not as an afterthought
 
-### [FlowAudit.it](https://flowaudit.it/) — AI Process Audit & Workflow Optimization
+### [FlowAudit.it](https://flowaudit.it/) | AI Process Audit & Workflow Optimization
 
-Answer 12 questions about your daily workflows. FlowAudit returns a structured report detailing which tasks to automate, which tools to use (Make.com, Zapier, n8n, and others), and the projected ROI — powered by Gemini and Anthropic models.
+Answer 12 questions about your daily workflows. FlowAudit returns a structured report detailing which tasks to automate, which tools to use (Make.com, Zapier, n8n, and others), and the projected ROI, powered by Gemini and Anthropic models.
 
 - Concrete tool recommendations and ROI calculations per workflow
 - Premium document analysis via OCR for operational deep-dives
@@ -106,7 +106,7 @@ Answer 12 questions about your daily workflows. FlowAudit returns a structured r
 
 We welcome issues, suggestions, and pull requests on any of our repositories. Before contributing, please read our [CONTRIBUTING.md](/diShine-digital-agency/info/blob/main/CONTRIBUTING.md) guide and our [Code of Conduct](/diShine-digital-agency/info/blob/main/CODE_OF_CONDUCT.md).
 
-If you find a security vulnerability, please follow our [Security Policy](/diShine-digital-agency/info/blob/main/SECURITY.md) — do not open a public issue.
+If you find a security vulnerability, please follow our [Security Policy](/diShine-digital-agency/info/blob/main/SECURITY.md), do not open a public issue.
 
 ---
 
@@ -116,15 +116,15 @@ If you find a security vulnerability, please follow our [Security Policy](/diShi
 
 _— John Chambers, former CEO of Cisco Systems_
 
-We believe this transformation doesn't have to be overwhelming. Through open-source collaboration, knowledge sharing, and practical tooling, we help businesses and individuals not just survive — but **shine** in the digital era.
+We believe this transformation doesn't have to be overwhelming. Through open-source collaboration, knowledge sharing, and practical tooling, we help businesses and individuals not just survive, but **shine** in the digital era.
 
 Our commitment:
 
-- **Transparency** — open-source solutions with clear, honest documentation
-- **Accessibility** — tools that work for businesses of all sizes, not just enterprises
-- **Pragmatism** — every tool solves a real problem we or our clients actually faced
-- **Education** — sharing the "why" behind the "how"
-- **Collaboration** — building together for mutual success
+- **Transparency** | open-source solutions with clear, honest documentation
+- **Accessibility** | tools that work for businesses of all sizes, not just enterprises
+- **Pragmatism** | every tool solves a real problem we or our clients actually faced
+- **Education** | sharing the "why" behind the "how"
+- **Collaboration** | building together for mutual success
 
 ---
 
@@ -133,7 +133,7 @@ Our commitment:
 | | |
 |---|---|
 | **Agency Website** | [dishine.it](https://dishine.it/) |
-| **Founder** | [Kevin Escoda](https://kescoda.com/) — Tech Consultant, Digital Strategies & Innovation |
+| **Founder** | [Kevin Escoda](https://kescoda.com/) | Tech Consultant, Digital Strategies & Innovation |
 | **LinkedIn** | [diShine Digital Agency](https://linkedin.com/company/100682596) |
 | **Get in touch** | E-mail: **[kevin@dishine.it](mailto:kevin@dishine.it)** |
 | **Get in touch** | [Contact form](https://dishine.it/contacts/) |
