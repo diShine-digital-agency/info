@@ -55,6 +55,7 @@ This organization is our open-source contribution hub. We develop (and share mod
 
 | Tool | What it does | Stack |
 |------|--------------|-------|
+| **[SHINE-Code-System](https://github.com/diShine-digital-agency/SHINE-Code-System)** | Auto-pilot framework that transforms Claude Code into a complete, persistent orchestrator. SHINE combines a cross-project global memory, 7 lifecycle hooks, and a 5-phase engineering methodology to power 45 specialized agents and 146 skills while enforcing strict security and GDPR compliance. | JavaScript, Claude Code |
 | **[prismo](https://github.com/diShine-digital-agency/prismo)** | A zero-footprint, USB-portable toolkit that bundles Node.js and Claude Code to perform 15+ diagnostics across SEO, MarTech, and Security without leaving a trace on the host machine. Plug, Audit, Leave (on Windows, macOS, or Linux) | Portable Node.js, Claude Code, PowerShell/Bash |
 | **[prismo-tauri](https://github.com/diShine-digital-agency/prismo-tauri)** | Lightweight, cross-platform GUI companion for the Prismo toolkit. Keeps absolute USB portability while adding a visual audit experience, live Markdown rendering, and browser-print PDF exports for zero-footprint desktop diagnostics | Tauri, Rust, React, Tailwind |
 | **[ai-prompt-library](https://github.com/diShine-digital-agency/ai-prompt-library)** | 82 production-ready prompt templates (from Chain-of-Thought to SEO briefing) with a zero-dependency CLI and a prompt engineering machine to standardize how your team interacts with LLMs | Node.js, YAML, Markdown |
