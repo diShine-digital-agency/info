@@ -17,19 +17,19 @@
 
 ---
 
-## 🚀 Welcome to Our Digital Innovation Hub
+## 🚀 Welcome to our Digital Innovation Hub
 
 Welcome to the official GitHub of **diShine Digital Agency**. Based in Milan, Italy, but operating globally, we are a creative tech agency dedicated to helping businesses and individuals navigate the complexities of the digital era.
 
 What started as a simple repository to share lists of tools has evolved into a comprehensive open-source hub. Today, this GitHub is a place where we share the tools  modified and polished for public use  that have already improved our own workflows and those of our clients.
 
-### 🏗️ Our Background: From Low-Code to Full-Stack Automation
+### 🏗️ Our Background: from low-code to full-stack automation
 
 We have been building digital solutions for years. Originally, our focus was on low-code platforms, WYSIWYG builders, and CMS integrations to deliver rapid value. Over time, as our clients' needs grew more complex, so did our capabilities.
 
 Today, our team includes dedicated developers and architects, allowing us to build custom, robust applications. But what truly sets us apart is our deep **business experience**. We don't just write code; we understand strategy and operations. Every tool we build is designed to solve a real business bottleneck, streamline an operation, or generate measurable ROI.
 
-### 🎯 Our Mission
+### 🎯 Our mission
 
 - **Transform**: build distinctive brand and product identities that resonate in the digital landscape;
 - **Automate**: streamline key business processes to boost efficiency and focus on strategic growth;
@@ -37,11 +37,11 @@ Today, our team includes dedicated developers and architects, allowing us to bui
 
 ---
 
-## 🛠️ Open-Source Tools
+## 🛠️ Open-Source tools
 
 This organization is our open-source contribution hub. We develop (and share modified versions of) tools that we use internally and with clients to automate workflows, audit performance, and build better tech stacks.
 
-### 🔍 Audit & Compliance
+### 🔍 Audit & compliance
 
 | Tool | What it does | Stack |
 |------|--------------|-------|
@@ -51,7 +51,7 @@ This organization is our open-source contribution hub. We develop (and share mod
 | **[lighthouse-dashboard](https://github.com/diShine-digital-agency/lighthouse-dashboard)** | Automates weekly Lighthouse audits for all your URLs, stores scores in a local SQLite database, and renders interactive trend charts via a REST API | Node.js, SQLite, Google Lighthouse |
 | **[ai-compliance-framework](https://github.com/diShine-digital-agency/ai-compliance-framework)** | Ready-to-use Markdown templates for AI Acceptable Use Policies, DPIAs, and ISO 42001 alignment, decision matrices, vendor audit checklists, and AUPs built with legal experts for the EU AI Act and GDPR | Markdown, HTML |
 
-### 🤖 AI & Automation
+### 🤖 AI & automation
 
 | Tool | What it does | Stack |
 |------|--------------|-------|
@@ -62,7 +62,7 @@ This organization is our open-source contribution hub. We develop (and share mod
 | **[dishine-data-safe-usb](https://github.com/diShine-digital-agency/dishine-data-safe-usb)** | Ensures no real phone numbers or IBANs are uploaded to external servers. Anonymises PII before AI model ingestion, preserving grouping and trend signals. A one-click Mac-native experience designed for non-technical teams | Python |
 | **[dishine-boardroom-ear](https://github.com/diShine-digital-agency/dishine-boardroom-ear)** | A 100% local audio transcriber built for board meetings and M&A discussions too sensitive for cloud bots. Uses faster-whisper with Metal/MPS optimization to turn raw audio into structured strategic assets entirely on your MacBook or Linux machine | Python, faster-whisper |
 
-### 📊 Strategy & Frameworks
+### 📊 Strategy & frameworks
 
 | Tool | What it does | Stack |
 |------|--------------|-------|
@@ -70,7 +70,7 @@ This organization is our open-source contribution hub. We develop (and share mod
 | **[digital-maturity-scorecard](https://github.com/diShine-digital-agency/digital-maturity-scorecard)** | A single-file interactive assessment that turns discovery calls into structured pre-diagnostics. Covers 5 dimensions of digital maturity with a live radar chart, personalized roadmap, and printable Digital Health Report | Vanilla JS, HTML |
 | **[align-framework](https://github.com/diShine-digital-agency/align-framework)** | The ALIGN methodology: a 5-phase process (Assess, Link, Integrate, Generate, Navigate) to map narrative gaps, select communication structures, and connect brand storytelling metrics directly to revenue growth | HTML, Markdown |
 
-### 🧰 Utilities & Productivity
+### 🧰 Utilities & productivity
 
 | Tool | What it does | Stack |
 |------|--------------|-------|
@@ -111,7 +111,7 @@ If you find a security vulnerability, please follow our [Security Policy](/diShi
 
 ---
 
-## 🌟 Our Philosophy
+## 🌟 Our philosophy
 
 > "At least 40% of all businesses will die in the next ten years… if they don't figure out how to change their entire company to accommodate new technologies."
 
@@ -129,7 +129,7 @@ Our commitment:
 
 ---
 
-## 📞 Connect With Us
+## 📞 Connect with us
 
 | | |
 |---|---|
